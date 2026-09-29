@@ -1,6 +1,14 @@
+# Agent practice
+
+<img src="images/agent-practice-logo.svg" width="192" height="192" alt="Agent practice logo: Alaska pollock and flatfish connected as collaborating agents.">
+
+**Alaska pollock + flatfish: two agents, shared progress.**
+
+Our two agents bring complementary perspectives to collaborative practice: **Alaska pollock**, the streamlined teal fish with three dorsal fins, and **flatfish**, the broad gold fish with paired eyes. Linked nodes represent their shared progress. The original [SVG logo](images/agent-practice-logo.svg) uses a self-contained, high-contrast palette and remains readable on light or dark backgrounds.
+
 [![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4838825) *Try without installing anything. Make sure to click the Make a Copy button or you will lose all your changes.*
  
-# NOAA quarto book with R and download PDF or docx
+## NOAA quarto book with R and download PDF or docx
 
 This is a template for [a simple Quarto book](https://nmfs-opensci.github.io/NOAA-quarto-book/) (`type: book`). It has download links (under the logo) for PDF or docx download.
 
@@ -49,5 +57,4 @@ This repository is a scientific product and is not official communication of the
 ### License
 
 This content was created by U.S. Government employees as part of their official duties. This content is not subject to copyright in the United States (17 U.S.C. §105) and is in the public domain within the United States of America. Additionally, copyright is waived worldwide through the CC0 1.0 Universal public domain dedication.
-
 

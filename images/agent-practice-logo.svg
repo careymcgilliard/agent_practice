@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Agent practice — Alaska pollock and flatfish</title>
+  <desc id="logo-description">A teal Alaska pollock with three dorsal fins swims right above a gold flatfish with two eyes on its visible side, swimming left. Two linked nodes between the fish symbolize collaborating agents and shared progress, framed by a navy rounded square.</desc>
+  <rect width="256" height="256" rx="48" fill="#102a43"/>
+  <g fill="none" stroke="#f0f6fc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 104H34V152H48M208 104H222V152H208"/>
+    <path d="M106 128H150"/>
+  </g>
+  <circle cx="98" cy="128" r="8" fill="#65d6c0"/>
+  <circle cx="158" cy="128" r="8" fill="#ffd17a"/>
+  <g fill="#65d6c0">
+    <path d="M78 70L57 53V97L78 83C105 108 176 105 207 78C179 51 111 49 78 70Z"/>
+    <path d="M104 62L119 39L134 58ZM140 58L154 40L166 63ZM171 65L183 52L193 72Z"/>
+    <path d="M120 95L140 108L147 96Z"/>
+  </g>
+  <g fill="none" stroke="#102a43" stroke-width="4" stroke-linecap="round">
+    <path d="M168 67Q158 79 168 90"/>
+    <path d="M93 78Q120 71 147 76"/>
+  </g>
+  <circle cx="184" cy="74" r="4" fill="#102a43"/>
+  <g fill="#ffd17a">
+    <path d="M183 178L207 163V205L183 190C166 218 91 226 54 185C85 143 159 145 183 178Z"/>
+    <path d="M84 164Q127 128 169 163L144 160L118 158Z"/>
+    <path d="M83 203Q127 237 169 205L142 209L116 210Z"/>
+  </g>
+  <g fill="none" stroke="#102a43" stroke-width="4" stroke-linecap="round">
+    <path d="M94 178Q111 185 94 196"/>
+    <path d="M114 184Q143 178 168 184"/>
+  </g>
+  <g fill="#102a43">
+    <circle cx="77" cy="178" r="4"/>
+    <circle cx="87" cy="169" r="4"/>
+  </g>
+</svg>
